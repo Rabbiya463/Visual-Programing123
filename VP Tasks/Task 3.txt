@@ -1,0 +1,18 @@
+//Declare an integer variable to store age 
+int age;
+//Initialize the age variable with value 27
+age=27;
+//Declare and initialize an integer variable to store age on the same line
+int age=27;
+//Declare the string variable to store the name
+String name;
+//Initialize the name variable with the value "john"
+name="john";
+//Declare and initialize a string variable to store name on the same line
+String name="john";
+//Declare a double variable to store salary
+double salary;
+// Initialize the salary variable with value 50000.500
+salary=50000.500;
+//Declare and initialize a boolean variable to store employment status on the same line
+bool isEmployed=true;
